@@ -1,10 +1,13 @@
-<h3 align="center">A passionate frontend developer from Segovia, Spain.</h3>
+<h1 align="center">¡Hola! Soy Daniel Díaz</h1>
+<h3 align="center">Desarrollador frontend apasionado en Segovia, España.</h3>
 
-- 🔭 I’m currently working on [Nutri Smart Coach](https://www.nutrismartcoach.com/)
+- 🔭 Actualmente estoy trabajando en [Nutri Smart Coach](https://www.nutrismartcoach.com/)
 
-- 👨‍💻 All of my projects are available at [https://danieldaviddf.vercel.app/](https://danieldaviddf.vercel.app/)
+- 👨‍💻 Todos mis proyectos los puedes ver en [https://danieldaviddf.vercel.app/](https://danieldaviddf.vercel.app/)
 
-- 📫 How to reach me **danieldaviddiazf@gmail.com**
+- 📫 Contacta conmigo **danieldaviddiazf@gmail.com**
+
+- 📄 [Full Stack developer especializado en JavaScript, Python, React, SQL y desarrollo de aplicaciones impulsadas por IA. Proactivo enfocado en crear aplicaciones eficientes y centradas en el usuario, con habilidades en trabajo en equipo y comunicación. Motivado por el aprendizaje constante. Stack Tecnologíco: Python, JavaScript, HTML5, CSS3, GitHub, Git, Flask, JSON Web Token (JWT), Bootstrap, React.js, SQL, Jest, Restful APIs, SQLAlchemy.](Full Stack developer especializado en JavaScript, Python, React, SQL y desarrollo de aplicaciones impulsadas por IA. Proactivo enfocado en crear aplicaciones eficientes y centradas en el usuario, con habilidades en trabajo en equipo y comunicación. Motivado por el aprendizaje constante. Stack Tecnologíco: Python, JavaScript, HTML5, CSS3, GitHub, Git, Flask, JSON Web Token (JWT), Bootstrap, React.js, SQL, Jest, Restful APIs, SQLAlchemy.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
