@@ -9,8 +9,8 @@
 
 - 📄 Full Stack developer especializado en JavaScript, Python, React, SQL y desarrollo de aplicaciones impulsadas por IA.
 - Proactivo enfocado en crear aplicaciones eficientes y centradas en el usuario, con habilidades en trabajo en equipo y comunicación. Motivado por el aprendizaje constante.
--
-- Stack Tecnologíco: Python, JavaScript, HTML5, CSS3, GitHub, Git, Flask, JSON Web Token (JWT), Bootstrap, React.js, SQL, Jest, Restful APIs, SQLAlchemy.](Full Stack developer especializado en JavaScript, Python, React, SQL y desarrollo de aplicaciones impulsadas por IA. Proactivo enfocado en crear aplicaciones eficientes y centradas en el usuario, con habilidades en trabajo en equipo y comunicación. Motivado por el aprendizaje constante. Stack Tecnologíco: Python, JavaScript, HTML5, CSS3, GitHub, Git, Flask, JSON Web Token (JWT), Bootstrap, React.js, SQL, Jest, Restful APIs, SQLAlchemy.)
+  
+- Stack Tecnologíco: Python, JavaScript, HTML5, CSS3, GitHub, Git, Flask, JSON Web Token (JWT), Bootstrap, React.js, SQL, Jest, Restful APIs, SQLAlchemy.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
