@@ -35,8 +35,8 @@ Desarrollo aplicaciones web modernas con foco en rendimiento, experiencia de usu
 # GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alexisrrh&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisrrh&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Danieldaviddf&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieldaviddf&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
