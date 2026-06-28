@@ -11,7 +11,7 @@ Desarrollo aplicaciones web modernas con foco en rendimiento, experiencia de usu
 
 - :computer: Desarrollo frontend y full stack
 - :rocket: Actualmente construyendo **NutriSmart Coach**
-- :robot_face: Interesado en IA, automatización y apps móviles
+- :robot: Interesado en IA, automatización y apps móviles
 - :books: Siempre aprendiendo y mejorando
 
   Todos mis proyectos puedes verlo en mi portafolio : https://danieldaviddf.vercel.app/
